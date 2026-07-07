@@ -130,8 +130,8 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&margin-w=15"/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=2&column=4" />
 </p>
 
 ---
