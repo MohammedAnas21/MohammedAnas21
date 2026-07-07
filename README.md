@@ -135,7 +135,10 @@
 </p>
 
 ---
+## 🏅 GitHub Achievements
 
+![](https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=2&column=4)
+---
 # 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=tokyo-night)](https://github.com/MohammedAnas21)
@@ -172,4 +175,16 @@ ML pipeline for predicting employee performance and retention.
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Building+LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+AI+Engineer+%26+ML+Engineer+Roles" />
 </p>
 
+## 🐍 Contribution Snake
 
+<p align="center">
+<img src="https://github.com/MohammedAnas21/MohammedAnas21/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+## 📊 Coding Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnas21&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnas21&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnas21&theme=tokyonight)
