@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0abde3,100:8b5cf6&height=220&section=header&text=Mohammed%20Anas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LangChain%2FLangGraph&descAlignY=54&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/MohammedAnas21/MohammedAnas21/main/profile-banner.svg" width="100%"/>
 
 <code>&gt; ./whoami.sh</code>
 
