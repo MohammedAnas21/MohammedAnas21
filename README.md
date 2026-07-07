@@ -3,13 +3,10 @@
   Live at: github.com/MohammedAnas21/MohammedAnas21
   GitHub username is already set to MohammedAnas21 throughout.
 
-  STILL OPEN — three href="#" placeholders need real links:
-    1. LinkedIn URL   (2 spots: header + "Let's Connect")
-    2. Portfolio URL  (1 spot: header)
-  Search this file for href="#" to find them.
+  LinkedIn and Portfolio links are now filled in (both spots).
 
-  Also check the 5 "Repository" badge links under Featured Projects —
-  they point to repo names that don't exist yet
+  STILL OPEN — the 5 "Repository" badge links under Featured Projects
+  point to repo names that don't exist yet
   (github.com/MohammedAnas21/ai-voice-receptionist, etc.). Your
   actual repos right now are: hospiq, Temptation, Portfolio,
   AI-Agent-Workspace. Point each link to the real repo once created,
@@ -35,9 +32,9 @@
 <br/><br/>
 
 <a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/MohammedAnas21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 <img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--time-00d9ff?style=for-the-badge"/>
@@ -593,7 +590,7 @@ I'm always open to discussing AI architecture, agentic systems, and freelance/co
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
