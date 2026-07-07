@@ -23,6 +23,26 @@
 - 🚀 Open to AI Engineer & ML Engineer opportunities
 
 ---
+## 🚀 Currently Working On
+
+- 🤖 Building production-ready AI Agents
+- 🧠 Multi-Agent Systems
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & LangGraph Workflows
+- ⚡ FastAPI + AI Backend Development
+- ☁️ AWS Deployment & Docker
+- 📈 AI Evaluation & LLM Observability
+---
+## 🏅 Certifications
+
+- 🎓 McKinsey Forward Program
+- 🎓 DataMites Certified Data Scientist
+- 🎓 IABAC Certified Data Scientist
+- 🎓 NASSCOM FutureSkills (In Progress)
+---
+
+
+
 
 # 🌐 Portfolio
 
@@ -122,15 +142,25 @@
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-- 🤖 AI Resume Analyzer
-- 🧠 Multi-Agent AI Assistant
-- 📄 RAG Chatbot
-- 🏦 Credit Risk Prediction
-- 📊 Employee Performance Prediction
-- ❤️ Heart Disease Prediction
-- ✈️ Flight Fare Prediction
+### 🤖 AI Resume Analyzer
+An intelligent resume screening application using LLMs and NLP.
+
+### 🧠 Multi-Agent AI Assistant
+AI agents capable of planning, reasoning, tool usage, and memory.
+
+### 📄 RAG Knowledge Chatbot
+Retrieval-Augmented Generation chatbot using LangChain and vector databases.
+
+### ❤️ Heart Disease Prediction
+Machine Learning model for early disease prediction.
+
+### 🏦 Credit Risk Prediction
+Predicts customer creditworthiness using classification models.
+
+### 📊 Employee Performance Prediction
+ML pipeline for predicting employee performance and retention.
 
 ---
 
