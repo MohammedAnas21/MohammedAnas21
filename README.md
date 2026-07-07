@@ -123,3 +123,9 @@
 ## 💡 Quote
 
 > "Building AI systems that solve real-world problems."
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Building+LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+AI+Engineer+%26+ML+Engineer+Roles" />
+</p>
+
+
