@@ -1,190 +1,458 @@
-<h1 align="center">Hi 👋, I'm Mohammed Anas</h1>
-<h3 align="center">AI Engineer | Generative AI | Agentic AI | Machine Learning | Python Developer</h3>
+<!--
+  ================================================================
+  BEFORE YOU PUSH THIS — replace these 3 placeholders everywhere:
+    YOUR_GITHUB_USERNAME  -> your actual GitHub username
+    YOUR_LINKEDIN_URL      -> e.g. https://linkedin.com/in/mohammedanas
+    YOUR_PORTFOLIO_URL     -> your portfolio site link
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mohammed%20Anas&fontSize=50&fontAlignY=40&desc=AI%20Engineer%20|%20Generative%20AI%20|%20Agentic%20AI&descAlignY=60"/>
-</p>
+  To make this your PROFILE README (the one that shows on your
+  GitHub profile page), create a repo with the EXACT same name as
+  your username (e.g. github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME)
+  and put this file in it as README.md.
 
-<p align="center">
-  <a href="https://github.com/MohammedAnas21">
-    <img src="https://komarev.com/ghpvc/?username=MohammedAnas21&label=Profile%20Views&color=blue&style=flat" />
-  </a>
-</p>
+  Everything below (badges, stats cards, activity graph, trophies)
+  is live/dynamic — it pulls real data once your username is in place.
+  GitHub natively renders the Mermaid diagrams, no image hosting needed.
+  ================================================================
+-->
 
----
+<div align="center">
 
-# 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0abde3,100:8b5cf6&height=220&section=header&text=Mohammed%20Anas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LangChain%2FLangGraph&descAlignY=58&descSize=18" width="100%"/>
 
-- 🤖 AI Engineer passionate about building Agentic AI systems
-- 🧠 Working with LLMs, RAG, LangChain & AI Agents
-- 🌱 Currently learning Multi-Agent Systems & MCP
-- 💻 Strong in Python, Machine Learning & Deep Learning
-- 📊 Interested in AI Automation, NLP and Computer Vision
-- 🚀 Open to AI Engineer & ML Engineer opportunities
+<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
----
-## 🚀 Currently Working On
+<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--time-00d9ff?style=for-the-badge"/>
 
-- 🤖 Building production-ready AI Agents
-- 🧠 Multi-Agent Systems
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🔗 LangChain & LangGraph Workflows
-- ⚡ FastAPI + AI Backend Development
-- ☁️ AWS Deployment & Docker
-- 📈 AI Evaluation & LLM Observability
----
-## 🏅 Certifications
+<br/><br/>
 
-- 🎓 McKinsey Forward Program
-- 🎓 DataMites Certified Data Scientist
-- 🎓 IABAC Certified Data Scientist
-- 🎓 NASSCOM FutureSkills (In Progress)
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=700&lines=Designing+intelligent+systems+that+automate+real+work;Multi-Agent+Architectures+%7C+RAG+%7C+Voice+AI;LangChain+%2F+LangGraph+%2F+FastAPI+%2F+Python;Currently+building+in+public+%E2%80%94+one+agent+at+a+time." alt="Typing SVG"/>
 
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
 
+</div>
 
+<br/>
 
-# 🌐 Portfolio
+<div align="center">
 
-👉 https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/
+| 🎓 | 🤖 | 📜 | 🛰️ | ♾️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **5** | **5+** | **9+** | **2025** | **Learning.** |
+| Internships Completed | AI/GenAI Projects Built | Certifications Earned | B.E. CSE Graduate | **Building. Shipping.** |
 
----
-
-# 📫 Connect with Me
-
-- 📧 Email: **mohammedanas21102001@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/mohammed-anas21
-- 💻 GitHub: https://github.com/MohammedAnas21
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🧠 About Me
 
-<p align="center">
+I'm an AI Engineer focused on **Generative AI, Agentic AI systems, and AI-driven automation** — the kind of work that takes an LLM from a demo to something that actually runs a business process. My background spans five internships across Data Science, AI DevOps, and Machine Learning, which is why I care as much about **shipping and deploying** a system as I do about designing it.
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
-
-<p align="center">
-
-![](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
-![](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge)
-![](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
-![](https://img.shields.io/badge/LangChain-00C853?style=for-the-badge)
-![](https://img.shields.io/badge/RAG-1E88E5?style=for-the-badge)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Machine_Learning-F57C00?style=for-the-badge)
-![](https://img.shields.io/badge/Deep_Learning-D32F2F?style=for-the-badge)
-![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-</p>
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAnas21&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnas21&layout=compact&theme=tokyonight"/>
-
-</p>
+- 🔭 Currently building production-style **multi-agent systems, RAG pipelines, and AI voice agents**
+- 🌱 Deepening my expertise in **LangGraph agent orchestration** and enterprise-grade RAG
+- 💼 Actively open to **AI/GenAI Engineer roles** and **freelance/contract work** (India, UAE & US markets)
+- 🎙️ Productizing two of my builds — an **AI Voice Receptionist** and an **AI Lead Generation Workflow** — as services for SMBs in real estate, healthcare & e-commerce
+- 💬 Ask me about RAG architectures, LangChain/LangGraph, or building voice agents with Twilio + Deepgram + ElevenLabs
+- 📫 Reach me at **mohammedanas21102001@gmail.com**
 
 ---
 
-# 🔥 GitHub Streak
+## 🛠️ What I Build
 
-<p align="center">
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=MohammedAnas21&theme=tokyonight"/>
+### 🧠 Generative AI
+LLM applications, RAG systems, prompt engineering, fine-tuning
 
-</p>
+</td>
+<td width="33%" valign="top">
 
----
+### 🤖 AI Agents
+Multi-agent systems, agentic workflows — LangGraph, CrewAI
 
-# 🏆 GitHub Trophies
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
+### 🎙️ Voice AI
+AI voice receptionists, real-time STT/TTS conversations
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
----
-## 🏅 GitHub Achievements
+### 📚 RAG & Knowledge Systems
+Vector search, semantic retrieval, ChromaDB pipelines
 
-![](https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=2&column=4)
----
-# 📈 Contribution Graph
+</td>
+<td width="33%" valign="top">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=tokyo-night)](https://github.com/MohammedAnas21)
+### ⚙️ AI Automation
+n8n workflows, webhook & event-driven automation
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ AI DevOps & MLOps
+CI/CD for ML, Docker, Kubernetes, cloud deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Resume Analyzer
-An intelligent resume screening application using LLMs and NLP.
+Every project below ships with two diagrams: a **system architecture** view and an **ER / data-model** view, rendered natively by GitHub via Mermaid.
 
-### 🧠 Multi-Agent AI Assistant
-AI agents capable of planning, reasoning, tool usage, and memory.
+### 1️⃣ AI Voice Receptionist
+`OpenAI` `Deepgram` `Twilio` `ElevenLabs` `FastAPI` `Webhooks`
 
-### 📄 RAG Knowledge Chatbot
-Retrieval-Augmented Generation chatbot using LangChain and vector databases.
+Production AI automation system that handles customer calls end-to-end — real-time speech-to-text, LLM reasoning, and text-to-speech, wired into lead qualification and CRM-ready workflows.
 
-### ❤️ Heart Disease Prediction
-Machine Learning model for early disease prediction.
+- ✅ Real-time STT → LLM → TTS pipeline
+- ✅ Automated appointment scheduling & lead qualification
+- ✅ CRM-ready webhook integration
+- ✅ Built for multi-tenant SMB deployment (real estate, healthcare, e-commerce)
 
-### 🏦 Credit Risk Prediction
-Predicts customer creditworthiness using classification models.
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/ai-voice-receptionist)
 
-### 📊 Employee Performance Prediction
-ML pipeline for predicting employee performance and retention.
+<details>
+<summary>🏗️ <b>View Architecture Diagram</b></summary>
+
+```mermaid
+flowchart LR
+    CA(("Caller")) --> TW["Twilio Voice"]
+    TW --> ST["Deepgram STT"]
+    ST --> LM["OpenAI Reasoning Engine"]
+    LM --> TT["ElevenLabs TTS"]
+    TT --> TW
+    LM --> CR[("CRM / Webhook")]
+    LM --> BK["Appointment Booking"]
+    LM --> AN["Call Analytics"]
+```
+
+</details>
+
+<details>
+<summary>🗂️ <b>View ER / Data Model Diagram</b></summary>
+
+```mermaid
+erDiagram
+    CALLER ||--o{ CALL : initiates
+    CALL ||--|| TRANSCRIPT : generates
+    CALL ||--o{ LEAD : "qualifies into"
+    LEAD ||--|| APPOINTMENT : books
+    CALL ||--|| CALL_ANALYTICS : logs
+```
+
+</details>
 
 ---
 
-## 💡 Quote
+### 2️⃣ AI Lead Generation Workflow
+`Python` `FastAPI` `LangChain` `PostgreSQL` `REST APIs` `Webhooks`
 
-> "Building AI systems that solve real-world problems."
+An AI-powered lead qualification and routing system that analyzes, scores, and prioritizes incoming leads, then automates CRM sync and personalized outreach.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%7C+Agentic+AI;Building+LLM+Apps+%7C+RAG+%7C+AI+Agents;Python+%7C+Machine+Learning+%7C+Deep+Learning;Open+to+AI+Engineer+%26+ML+Engineer+Roles" />
-</p>
+- ✅ LLM-based lead analysis, categorization & scoring
+- ✅ Automated CRM synchronization via REST APIs / webhooks
+- ✅ Personalized outreach email generation
+- ✅ Retry & error-handling for workflow monitoring
 
-## 🐍 Contribution Snake
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/ai-lead-generation-workflow)
 
-<p align="center">
-<img src="https://github.com/MohammedAnas21/MohammedAnas21/blob/output/github-contribution-grid-snake.svg">
-</p>
+<details>
+<summary>🏗️ <b>View Architecture Diagram</b></summary>
 
-## 📊 Coding Activity
+```mermaid
+flowchart LR
+    SRC["Lead Sources"] --> WH["Webhook Ingestion"]
+    WH --> LC["LangChain Analysis"]
+    LC --> SCR["AI Lead Scoring"]
+    SCR --> DB[("PostgreSQL")]
+    SCR --> OUT["Personalized Outreach Gen"]
+    DB --> CRM["CRM Sync"]
+    OUT --> NOT["Notifications"]
+```
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammedAnas21&theme=tokyonight)
+</details>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohammedAnas21&theme=tokyonight)
+<details>
+<summary>🗂️ <b>View ER / Data Model Diagram</b></summary>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohammedAnas21&theme=tokyonight)
+```mermaid
+erDiagram
+    LEAD_SOURCE ||--o{ LEAD : generates
+    LEAD ||--|| LEAD_SCORE : receives
+    LEAD ||--|| CATEGORY : "classified as"
+    LEAD ||--o{ OUTREACH_EMAIL : triggers
+    LEAD }o--|| CRM_RECORD : "synced to"
+```
+
+</details>
+
+---
+
+### 3️⃣ RAG Knowledge Assistant
+`LangChain` `OpenAI` `ChromaDB` `FastAPI`
+
+A Retrieval-Augmented Generation chatbot that answers questions from custom knowledge bases using semantic search and vector retrieval.
+
+- ✅ Document ingestion & chunking pipeline
+- ✅ Semantic search over a ChromaDB vector store
+- ✅ Context-aware Q&A with source grounding
+- ✅ Built for enterprise knowledge management
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/rag-knowledge-assistant)
+
+<details>
+<summary>🏗️ <b>View Architecture Diagram</b></summary>
+
+```mermaid
+flowchart LR
+    D["Documents"] --> I["Ingestion Pipeline"]
+    I --> C["Chunking"]
+    C --> E["Embedding Model - OpenAI"]
+    E --> V[("ChromaDB Vector Store")]
+    Q["User Query"] --> QE["Query Embedding"]
+    QE --> V
+    V --> RT["Top-K Retrieval"]
+    RT --> L["LangChain + OpenAI LLM"]
+    L --> A["Answer with Sources"]
+```
+
+</details>
+
+<details>
+<summary>🗂️ <b>View ER / Data Model Diagram</b></summary>
+
+```mermaid
+erDiagram
+    DOCUMENT ||--o{ CHUNK : "split into"
+    CHUNK ||--|| EMBEDDING : generates
+    EMBEDDING }o--|| VECTOR_STORE : "stored in"
+    QUERY ||--o{ RETRIEVED_CHUNK : matches
+    RETRIEVED_CHUNK ||--|| RESPONSE : informs
+```
+
+</details>
+
+---
+
+### 4️⃣ Multi-Agent Research Assistant
+`Python` `LangGraph` `OpenAI` `FastAPI`
+
+An autonomous multi-agent system that plans, researches, reasons, and generates structured reports — with agent collaboration orchestrated end-to-end.
+
+- ✅ Planner → Researcher → Reasoning → Report agent pipeline
+- ✅ Agent collaboration via LangGraph orchestration
+- ✅ Scalable task delegation & information synthesis
+- ✅ Structured, source-aware report output
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/multi-agent-research-assistant)
+
+<details>
+<summary>🏗️ <b>View Architecture Diagram</b></summary>
+
+```mermaid
+flowchart LR
+    U["User Query"] --> P["Planner Agent"]
+    P --> R["Research Agent"]
+    R --> S1[("Web / Data Sources")]
+    R --> RE["Reasoning Agent"]
+    RE --> REP["Report Generator Agent"]
+    REP --> O["Structured Report Output"]
+    P -.->|"orchestrated via LangGraph"| RE
+```
+
+</details>
+
+<details>
+<summary>🗂️ <b>View ER / Data Model Diagram</b></summary>
+
+```mermaid
+erDiagram
+    RESEARCH_TASK ||--o{ SUBTASK : "decomposes into"
+    SUBTASK ||--|| AGENT : "assigned to"
+    AGENT ||--o{ FINDING : produces
+    FINDING }o--|| REPORT : "synthesized into"
+    RESEARCH_TASK ||--|| REPORT : generates
+```
+
+</details>
+
+---
+
+### 5️⃣ AI Resume Analyzer
+`Python` `OpenAI API` `FastAPI`
+
+An AI-powered resume analysis platform for ATS optimization, candidate evaluation, and skill-gap analysis against a target job description.
+
+- ✅ LLM-based resume parsing & feature extraction
+- ✅ ATS scoring engine with actionable recommendations
+- ✅ Skill-gap analysis against job descriptions
+- ✅ Automated resume-to-job matching
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME/ai-resume-analyzer)
+
+<details>
+<summary>🏗️ <b>View Architecture Diagram</b></summary>
+
+```mermaid
+flowchart LR
+    UP["Resume Upload"] --> PA["Parsing - FastAPI"]
+    PA --> FE["Feature / Skill Extraction"]
+    FE --> LLM["OpenAI API Analysis"]
+    JD["Job Description"] --> LLM
+    LLM --> SC["ATS Scoring Engine"]
+    SC --> RC["Recommendations Output"]
+```
+
+</details>
+
+<details>
+<summary>🗂️ <b>View ER / Data Model Diagram</b></summary>
+
+```mermaid
+erDiagram
+    CANDIDATE ||--|| RESUME : submits
+    RESUME ||--o{ SKILL : contains
+    RESUME ||--|| ATS_SCORE : receives
+    JOB_DESCRIPTION ||--o{ SKILL : requires
+    RESUME }o--|| JOB_DESCRIPTION : "matched against"
+    ATS_SCORE ||--o{ RECOMMENDATION : generates
+```
+
+</details>
+
+<div align="center">
+
+[![View more repositories](https://img.shields.io/badge/View%20more%20repositories-→-8b5cf6?style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME?tab=repositories)
+
+</div>
+
+---
+
+## 🧰 Tech Stack
+
+<table width="100%">
+<tr><th align="left">🧠 LLMs & Generative AI</th><td>
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
+
+</td></tr>
+<tr><th align="left">🎙️ Voice AI</th><td>
+
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+
+</td></tr>
+<tr><th align="left">💻 Backend</th><td>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</td></tr>
+<tr><th align="left">🗄️ Databases</th><td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6A4C93?style=for-the-badge)
+
+</td></tr>
+<tr><th align="left">☁️ Cloud & DevOps</th><td>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td></tr>
+<tr><th align="left">🔧 Automation & Tools</th><td>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6E56CF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
+
+</td></tr>
+</table>
+
+---
+
+## 🏗️ System Architecture & Design Philosophy
+
+This is the general shape most of my AI systems follow — from voice receptionists to RAG assistants — regardless of the specific project:
+
+```mermaid
+flowchart LR
+    A["User / Client"] --> B["Voice / Text Input"]
+    B --> C["STT - Deepgram / Whisper"]
+    C --> D["LLM / Reasoning\nOpenAI + LangChain / LangGraph"]
+    D --> E[("Memory\nVector DB / ChromaDB")]
+    D --> F["Tools & Agents\nFunction Calling"]
+    F --> G["APIs & Systems\nCRM / DB / Webhooks"]
+    G --> H["Automation & Action\nn8n / Twilio / ElevenLabs"]
+    H --> I["Analytics & Insights"]
+    I -.->|"Continuous Learning & Improvement"| D
+```
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="49%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing AI architecture, agentic systems, and freelance/contract opportunities — especially productizing AI voice agents and lead-gen workflows for SMBs in the **UAE and US markets**.
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"Great AI systems aren't just intelligent — they're reliable, scalable, and built with intention."*
+> — Mohammed Anas
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0abde3&height=120&section=footer" width="100%"/>
