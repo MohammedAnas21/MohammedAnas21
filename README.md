@@ -32,7 +32,7 @@
 
 # 📫 Connect with Me
 
-- 📧 Email: **nanami9741@gmail.com**
+- 📧 Email: **mohammedanas21102001@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/mohammed-anas21
 - 💻 GitHub: https://github.com/MohammedAnas21
 
