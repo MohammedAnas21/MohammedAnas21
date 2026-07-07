@@ -20,7 +20,7 @@
 --> <div align="center"> <img src="premium-banner.png" width="100%"/>   
 
 
-`> ./whoami.sh`
+
 
 # 🚀 Designing Intelligent Systems. Automating Real Workflows.
 
