@@ -1,5 +1,5 @@
 <!--
-  ================================================================
+================================================================
   Live at: github.com/MohammedAnas21/MohammedAnas21
   GitHub username is already set to MohammedAnas21 throughout.
 
@@ -17,44 +17,32 @@
   reference screenshot. GitHub renders Mermaid natively — no image
   hosting needed.
   ================================================================
--->
+--> <div align="center"> <img src="premium-banner.png" width="100%"/>   
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/MohammedAnas21/MohammedAnas21/main/profile-banner.svg" width="100%"/>
+`> ./whoami.sh`
 
-<code>&gt; ./whoami.sh</code>
+# 🚀 Designing Intelligent Systems. Automating Real Workflows.
 
-<h3>Designing Intelligent Systems. Automating Real Workflows. Learning in Public.</h3>
+### AI Engineer | Generative AI | Agentic AI | RAG | Voice Automation
 
-<sub>AI Engineer with hands-on experience across <b>5 internships</b> spanning Generative AI, Agentic AI, RAG, and AI Voice Automation — currently building production-style multi-agent systems and shipping them as real projects, not just notebooks.</sub>
+**AI Engineer with hands-on experience across 5 internships spanning Generative AI, Agentic AI, RAG, and AI Voice Automation — currently building production-style multi-agent systems and shipping them as real projects, not just notebooks.**
 
-<br/><br/>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedanas21102001@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-anas21)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21)[![Portfolio](https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/)
 
-<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/MohammedAnas21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+![Location](https://img.shields.io/badge/Location-Karnataka%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white)![Open to](https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--time-00d9ff?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--time-00d9ff?style=for-the-badge"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=700&lines=Designing+intelligent+systems+that+automate+real+work;Multi-Agent+Architectures+%7C+RAG+%7C+Voice+AI;LangChain+%2F+LangGraph+%2F+FastAPI+%2F+Python;Currently+building+in+public+%E2%80%94+one+agent+at+a+time.)
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=700&lines=Designing+intelligent+systems+that+automate+real+work;Multi-Agent+Architectures+%7C+RAG+%7C+Voice+AI;LangChain+%2F+LangGraph+%2F+FastAPI+%2F+Python;Currently+building+in+public+%E2%80%94+one+agent+at+a+time." alt="Typing SVG"/>
-
-<img src="https://komarev.com/ghpvc/?username=MohammedAnas21&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
+![Profile Views](https://komarev.com/ghpvc/?username=MohammedAnas21&label=Profile%20Views&color=8b5cf6&style=for-the-badge)
 
 </div>
-
-<br/>
-
 <div align="center">
 
-| 🎓 | 🤖 | 📜 | 🛰️ | ♾️ |
-|:---:|:---:|:---:|:---:|:---:|
+| 🎓 Internships | 🤖 AI Projects | 📜 Certifications | 🛰️ Education | ♾️ Status |
+| --- | --- | --- | --- | --- |
 | **5** | **5+** | **9+** | **2025** | **Learning.** |
-| Internships Completed | AI/GenAI Projects Built | Certifications Earned | B.E. CSE Graduate | **Building. Shipping.** |
+| Completed | Built | Earned | B.E. CSE Graduate | **Building. Shipping.** |
 
 </div>
 
@@ -77,49 +65,60 @@ available_for: [Full-time, Contract, Freelance]
 ```
 
 - 🔭 Currently building production-style **multi-agent systems, RAG pipelines, and AI voice agents**
+
 - 🎙️ Productizing two builds — an **AI Voice Receptionist** and an **AI Lead Generation Workflow** — as services for SMBs in real estate, healthcare & e-commerce
+
 - 💼 Open to **AI/GenAI Engineer roles** and **freelance/contract work** across India, UAE & US markets
+
 - 💬 Ask me about RAG architectures, LangChain/LangGraph, or building voice agents with Twilio + Deepgram + ElevenLabs
+
+---
 
 ## ⚡ What I Do
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🎯 Design
+
 Architect scalable AI systems and intelligent workflows end-to-end
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🛠️ Build
+
 Ship production-ready GenAI apps, RAG pipelines & multi-agent systems
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🤖 Automate
+
 Wire business workflows together with AI agents & n8n
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🔌 Integrate
+
 Connect LLMs, voice stacks & databases through clean APIs
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### ⚡ Optimize
+
 Tune performance, cost & reliability across the pipeline
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
 ### 🚀 Deliver
+
 Get things into production — not just notebooks
 
 </td>
@@ -138,18 +137,20 @@ Get things into production — not just notebooks
 
 Every project below ships with a full **system architecture** diagram and a **field-level ER / data model** diagram, rendered natively by GitHub via Mermaid.
 
-<br/>
-
 ### 1️⃣ AI Voice Receptionist
-<img src="https://img.shields.io/badge/FLAGSHIP-00d9ff?style=for-the-badge"/>
+
+![FLAGSHIP](https://img.shields.io/badge/FLAGSHIP-00d9ff?style=for-the-badge)
 
 `OpenAI` `Deepgram` `Twilio` `ElevenLabs` `FastAPI` `Webhooks`
 
 Production AI automation system that handles customer calls end-to-end — real-time speech-to-text, LLM reasoning, and text-to-speech, wired into lead qualification and CRM-ready workflows.
 
 - ✅ Real-time STT → LLM → TTS pipeline
+
 - ✅ Automated appointment scheduling & lead qualification
+
 - ✅ CRM-ready webhook integration
+
 - ✅ Built for multi-tenant SMB deployment (real estate, healthcare, e-commerce)
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-voice-receptionist)
@@ -217,13 +218,17 @@ erDiagram
 ---
 
 ### 2️⃣ AI Lead Generation Workflow
+
 `Python` `FastAPI` `LangChain` `PostgreSQL` `REST APIs` `Webhooks`
 
 An AI-powered lead qualification and routing system that analyzes, scores, and prioritizes incoming leads, then automates CRM sync and personalized outreach.
 
 - ✅ LLM-based lead analysis, categorization & scoring
+
 - ✅ Automated CRM synchronization via REST APIs / webhooks
+
 - ✅ Personalized outreach email generation
+
 - ✅ Retry & error-handling for workflow monitoring
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-lead-generation-workflow)
@@ -285,13 +290,17 @@ erDiagram
 ---
 
 ### 3️⃣ RAG Knowledge Assistant
+
 `LangChain` `OpenAI` `ChromaDB` `FastAPI`
 
 A Retrieval-Augmented Generation chatbot that answers questions from custom knowledge bases using semantic search and vector retrieval.
 
 - ✅ Document ingestion & chunking pipeline
+
 - ✅ Semantic search over a ChromaDB vector store
+
 - ✅ Context-aware Q&A with source grounding
+
 - ✅ Built for enterprise knowledge management
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/rag-knowledge-assistant)
@@ -352,13 +361,17 @@ erDiagram
 ---
 
 ### 4️⃣ Multi-Agent Research Assistant
+
 `Python` `LangGraph` `OpenAI` `FastAPI`
 
 An autonomous multi-agent system that plans, researches, reasons, and generates structured reports — with agent collaboration orchestrated end-to-end.
 
 - ✅ Planner → Researcher → Reasoning → Report agent pipeline
+
 - ✅ Agent collaboration via LangGraph orchestration
+
 - ✅ Scalable task delegation & information synthesis
+
 - ✅ Structured, source-aware report output
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/multi-agent-research-assistant)
@@ -417,13 +430,17 @@ erDiagram
 ---
 
 ### 5️⃣ AI Resume Analyzer
+
 `Python` `OpenAI API` `FastAPI`
 
 An AI-powered resume analysis platform for ATS optimization, candidate evaluation, and skill-gap analysis against a target job description.
 
 - ✅ LLM-based resume parsing & feature extraction
+
 - ✅ ATS scoring engine with actionable recommendations
+
 - ✅ Skill-gap analysis against job descriptions
+
 - ✅ Automated resume-to-job matching
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-resume-analyzer)
@@ -480,69 +497,42 @@ erDiagram
     RESUME ||--o{ SKILL : contains
     RESUME ||--|| ATS_SCORE : receives
     JOB_DESCRIPTION ||--|| ATS_SCORE : "evaluated against"
-    ATS_SCORE ||--o{ RECOMMENDATION : generates
+    ATS_SCORE ||--o{ RECOMMENDATION : provides
 ```
-
-<div align="center">
-
-[![View more repositories](https://img.shields.io/badge/View%20more%20repositories-→-8b5cf6?style=for-the-badge)](https://github.com/MohammedAnas21?tab=repositories)
-
-</div>
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Technical Stack
 
 <table width="100%">
-<tr><th align="left">🧠 LLMs & Generative AI</th><td>
+<tr><th align="left" width="25%">🧠 AI & GenAI</th><td>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">🎙️ Voice AI</th><td>
 
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">💻 Backend</th><td>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td></tr>
 <tr><th align="left">🗄️ Databases</th><td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge)
-![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6A4C93?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![ChromaDB](https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge)![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6A4C93?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">☁️ Cloud & DevOps</th><td>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </td></tr>
 <tr><th align="left">🔧 Automation & Tools</th><td>
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-6E56CF?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)![Webhooks](https://img.shields.io/badge/Webhooks-6E56CF?style=for-the-badge)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
 
 </td></tr>
 </table>
@@ -570,17 +560,9 @@ flowchart LR
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAnas21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=MohammedAnas21&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnas21&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=1&column=6" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=tokyo-night&hide_border=true" width="100%"/>
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohammedAnas21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=MohammedAnas21&theme=tokyonight&hide_border=true" width="49%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnas21&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=1&column=6" width="49%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=tokyo-night&hide_border=true" width="100%"/> </div>
 
 ---
 
@@ -590,18 +572,11 @@ I'm always open to discussing AI architecture, agentic systems, and freelance/co
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-anas21)[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedanas21102001@gmail.com)
 
 </div>
-
-<br/>
-
 <div align="center">
 
-> *"Great AI systems aren't just intelligent — they're reliable, scalable, and built with intention."*
-> — Mohammed Anas
+> *"Great AI systems aren't just intelligent — they're reliable, scalable, and built with intention."*— Mohammed Anas
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0abde3&height=120&section=footer" width="100%"/>
+</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0abde3&height=120&section=footer" width="100%"/>
