@@ -17,7 +17,7 @@
   reference screenshot. GitHub renders Mermaid natively — no image
   hosting needed.
   ================================================================
---> <div align="center"> <img src="premium-banner.png" width="100%"/>   
+--> <div align="center"> <img src="premium-banner.webp" width="100%"/>   
 
 
 
