@@ -68,7 +68,21 @@
 
 </p>
 
+<p align="center">
+
+![](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge)
+![](https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge)
+![](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
+![](https://img.shields.io/badge/LangChain-00C853?style=for-the-badge)
+![](https://img.shields.io/badge/RAG-1E88E5?style=for-the-badge)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Machine_Learning-F57C00?style=for-the-badge)
+![](https://img.shields.io/badge/Deep_Learning-D32F2F?style=for-the-badge)
+![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</p>
 ---
+
 
 # 📊 GitHub Stats
 
