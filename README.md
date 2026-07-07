@@ -1,73 +1,66 @@
 <!--
   ================================================================
   Live at: github.com/MohammedAnas21/MohammedAnas21
+  GitHub username is already set to MohammedAnas21 throughout.
 
-  DESIGN SYSTEM — everything below pulls from one fixed palette so
-  the whole profile reads as one designed surface instead of a wall
-  of mismatched brand-colored badges:
-    Indigo   #6366F1  (primary / core AI stack)
-    Violet   #8B5CF6  (voice / agentic systems)
-    Cyan     #06B6D4  (backend / infra)
-    Blue     #3B82F6  (data layer)
-    Slate    #1E293B  (cloud / devops)
-    Fuchsia  #D946EF  (automation / tooling)
-  Same palette drives: banner gradient, all badges, GitHub stats
-  card accents, Mermaid diagram theme, and section dividers.
-
-  LinkedIn, Portfolio, GitHub, Gmail links are all live.
+  LinkedIn and Portfolio links are now filled in (both spots).
 
   STILL OPEN — the 5 "Repository" badge links under Featured Projects
-  point to repo names that don't exist yet. Your actual repos right
-  now are: hospiq, Temptation, Portfolio, AI-Agent-Workspace. Tell me
-  the mapping (which project = which repo) and I'll wire them in.
+  point to repo names that don't exist yet
+  (github.com/MohammedAnas21/ai-voice-receptionist, etc.). Your
+  actual repos right now are: hospiq, Temptation, Portfolio,
+  AI-Agent-Workspace. Point each link to the real repo once created,
+  or tell me the mapping and I'll update it.
 
-  Snake contribution animation workflow from before still applies —
-  not repeated here, just referenced in its section.
+  Architecture + ER diagrams are now always visible (not collapsed)
+  and the ER diagrams include field-level PK/FK detail, matching the
+  reference screenshot. GitHub renders Mermaid natively — no image
+  hosting needed.
   ================================================================
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:06b6d4&height=240&section=header&text=MOHAMMED%20ANAS&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%E2%80%94%20Generative%20AI%20%C2%B7%20Agentic%20Systems%20%C2%B7%20RAG%20%C2%B7%20Voice%20AI&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0abde3,100:8b5cf6&height=220&section=header&text=Mohammed%20Anas&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LangChain%2FLangGraph&descAlignY=54&descSize=18" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=3" width="100%"/>
+<code>&gt; ./whoami.sh</code>
+
+<h3>Designing Intelligent Systems. Automating Real Workflows. Learning in Public.</h3>
+
+<sub>AI Engineer with hands-on experience across <b>5 internships</b> spanning Generative AI, Agentic AI, RAG, and AI Voice Automation — currently building production-style multi-agent systems and shipping them as real projects, not just notebooks.</sub>
+
+<br/><br/>
+
+<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/MohammedAnas21"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14b8a6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-8b5cf6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Freelance%20%7C%20Full--time-00d9ff?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&background=00000000&center=true&vCenter=true&width=700&lines=Designing+intelligent+systems+that+automate+real+work;Multi-Agent+Architectures+%7C+RAG+%7C+Voice+AI;LangChain+%2F+LangGraph+%2F+FastAPI+%2F+Python;Currently+building+in+public+%E2%80%94+one+agent+at+a+time." alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=MohammedAnas21&label=Profile%20Views&color=8b5cf6&style=for-the-badge"/>
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=8B5CF6&center=true&vCenter=true&width=760&lines=Designing+intelligent+systems+that+automate+real+work;Multi-Agent+Architectures+%7C+RAG+%7C+Voice+AI;LangChain+%2F+LangGraph+%2F+FastAPI+%2F+Python;5+internships+%E2%80%94+shipped+as+products%2C+not+notebooks." alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/MohammedAnas21"><img src="https://img.shields.io/badge/GitHub-06B6D4?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-<a href="https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📍_Karnataka,_India-1E293B?style=flat-square&labelColor=1E293B&color=0f172a"/>
-<img src="https://img.shields.io/badge/🟢_Open_to-Freelance_|_Full--time-1E293B?style=flat-square&labelColor=1E293B&color=0f172a"/>
-<img src="https://komarev.com/ghpvc/?username=MohammedAnas21&label=Profile%20Views&color=6366F1&style=flat-square"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,50:8b5cf6,100:6366f1&height=3" width="100%"/>
-
 <div align="center">
 
-![Internships](https://img.shields.io/badge/🎓_Internships-5-6366F1?style=for-the-badge&labelColor=0f172a)
-![Projects](https://img.shields.io/badge/🤖_AI/GenAI_Projects-5+-8B5CF6?style=for-the-badge&labelColor=0f172a)
-![Certifications](https://img.shields.io/badge/📜_Certifications-9+-06B6D4?style=for-the-badge&labelColor=0f172a)
-![Graduate](https://img.shields.io/badge/🎓_B.E._CSE-2025-3B82F6?style=for-the-badge&labelColor=0f172a)
+| 🎓 | 🤖 | 📜 | 🛰️ | ♾️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **5** | **5+** | **9+** | **2025** | **Learning.** |
+| Internships Completed | AI/GenAI Projects Built | Certifications Earned | B.E. CSE Graduate | **Building. Shipping.** |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=3" width="100%"/>
+---
 
 ## 🧾 About Me
-
-> [!NOTE]
-> AI Engineer with hands-on experience across **5 internships** spanning Generative AI, Agentic AI, RAG, and Voice Automation — currently building production-style multi-agent systems and shipping them as real products, not notebooks.
 
 ```yaml
 name: "Mohammed Anas"
@@ -84,64 +77,56 @@ available_for: [Full-time, Contract, Freelance]
 ```
 
 - 🔭 Currently building production-style **multi-agent systems, RAG pipelines, and AI voice agents**
-- 🎙️ Productizing two builds — an **AI Voice Receptionist** and an **AI Lead Generation Workflow** — for SMBs in real estate, healthcare & e-commerce
+- 🎙️ Productizing two builds — an **AI Voice Receptionist** and an **AI Lead Generation Workflow** — as services for SMBs in real estate, healthcare & e-commerce
 - 💼 Open to **AI/GenAI Engineer roles** and **freelance/contract work** across India, UAE & US markets
-- 💬 Ask me about RAG architectures, LangChain/LangGraph, or voice agents built with Twilio + Deepgram + ElevenLabs
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+- 💬 Ask me about RAG architectures, LangChain/LangGraph, or building voice agents with Twilio + Deepgram + ElevenLabs
 
 ## ⚡ What I Do
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-**🎯 Design**
-<br/>
-<sub>Architect scalable AI systems and intelligent workflows end-to-end</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🛠️ Build**
-<br/>
-<sub>Ship production-ready GenAI apps, RAG pipelines & multi-agent systems</sub>
+### 🎯 Design
+Architect scalable AI systems and intelligent workflows end-to-end
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-**🤖 Automate**
-<br/>
-<sub>Wire business workflows together with AI agents & n8n</sub>
+### 🛠️ Build
+Ship production-ready GenAI apps, RAG pipelines & multi-agent systems
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Automate
+Wire business workflows together with AI agents & n8n
 
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-**🔌 Integrate**
-<br/>
-<sub>Connect LLMs, voice stacks & databases through clean APIs</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**⚡ Optimize**
-<br/>
-<sub>Tune performance, cost & reliability across the pipeline</sub>
+### 🔌 Integrate
+Connect LLMs, voice stacks & databases through clean APIs
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-**🚀 Deliver**
-<br/>
-<sub>Get things into production — not just notebooks</sub>
+### ⚡ Optimize
+Tune performance, cost & reliability across the pipeline
+
+</td>
+<td width="33%" valign="top">
+
+### 🚀 Deliver
+Get things into production — not just notebooks
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+---
 
 ## 🚀 Featured AI Projects
 
@@ -151,12 +136,12 @@ available_for: [Full-time, Contract, Freelance]
 
 </div>
 
-Every project ships with a full **system architecture** diagram and a **field-level ER / data model** diagram, themed and rendered natively by GitHub via Mermaid.
+Every project below ships with a full **system architecture** diagram and a **field-level ER / data model** diagram, rendered natively by GitHub via Mermaid.
 
 <br/>
 
 ### 1️⃣ AI Voice Receptionist
-<img src="https://img.shields.io/badge/FLAGSHIP-6366F1?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/FLAGSHIP-00d9ff?style=for-the-badge"/>
 
 `OpenAI` `Deepgram` `Twilio` `ElevenLabs` `FastAPI` `Webhooks`
 
@@ -167,13 +152,11 @@ Production AI automation system that handles customer calls end-to-end — real-
 - ✅ CRM-ready webhook integration
 - ✅ Built for multi-tenant SMB deployment (real estate, healthcare, e-commerce)
 
-[![Repository](https://img.shields.io/badge/Repository-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-voice-receptionist)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-voice-receptionist)
 
-<details open>
-<summary><b>🏗️ Architecture</b></summary>
+**🏗️ Architecture**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     CA(("📞 Caller")) --> TW["☎️ Twilio Voice"]
     TW --> ST["🎧 Deepgram STT"]
@@ -185,13 +168,9 @@ flowchart LR
     LM --> AN["📊 Call Analytics"]
 ```
 
-</details>
-
-<details open>
-<summary><b>🗂️ ER Diagram</b></summary>
+**🗂️ ER Diagram**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#a78bfa", "lineColor": "#06b6d4", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "13px"}}}%%
 erDiagram
     CALLER {
         int id PK
@@ -235,8 +214,6 @@ erDiagram
     CALL ||--|| CALL_ANALYTICS : logs
 ```
 
-</details>
-
 ---
 
 ### 2️⃣ AI Lead Generation Workflow
@@ -249,13 +226,11 @@ An AI-powered lead qualification and routing system that analyzes, scores, and p
 - ✅ Personalized outreach email generation
 - ✅ Retry & error-handling for workflow monitoring
 
-[![Repository](https://img.shields.io/badge/Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-lead-generation-workflow)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-lead-generation-workflow)
 
-<details open>
-<summary><b>🏗️ Architecture</b></summary>
+**🏗️ Architecture**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     SRC["📥 Lead Sources"] --> WH["🪝 Webhook Ingestion"]
     WH --> LC["🧠 LangChain Analysis"]
@@ -266,13 +241,9 @@ flowchart LR
     OUT --> NOT["🔔 Notifications"]
 ```
 
-</details>
-
-<details open>
-<summary><b>🗂️ ER Diagram</b></summary>
+**🗂️ ER Diagram**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#a78bfa", "lineColor": "#06b6d4", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "13px"}}}%%
 erDiagram
     LEAD_SOURCE {
         int id PK
@@ -311,8 +282,6 @@ erDiagram
     LEAD }o--|| CRM_RECORD : "synced to"
 ```
 
-</details>
-
 ---
 
 ### 3️⃣ RAG Knowledge Assistant
@@ -325,13 +294,11 @@ A Retrieval-Augmented Generation chatbot that answers questions from custom know
 - ✅ Context-aware Q&A with source grounding
 - ✅ Built for enterprise knowledge management
 
-[![Repository](https://img.shields.io/badge/Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/rag-knowledge-assistant)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/rag-knowledge-assistant)
 
-<details open>
-<summary><b>🏗️ Architecture</b></summary>
+**🏗️ Architecture**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     D["📄 Documents"] --> I["📥 Ingestion Pipeline"]
     I --> C["🧩 Chunking"]
@@ -344,13 +311,9 @@ flowchart LR
     L --> A["✅ Answer with Sources"]
 ```
 
-</details>
-
-<details open>
-<summary><b>🗂️ ER Diagram</b></summary>
+**🗂️ ER Diagram**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#a78bfa", "lineColor": "#06b6d4", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "13px"}}}%%
 erDiagram
     DOCUMENT {
         int id PK
@@ -386,8 +349,6 @@ erDiagram
     QUERY ||--|| RESPONSE : produces
 ```
 
-</details>
-
 ---
 
 ### 4️⃣ Multi-Agent Research Assistant
@@ -400,13 +361,11 @@ An autonomous multi-agent system that plans, researches, reasons, and generates 
 - ✅ Scalable task delegation & information synthesis
 - ✅ Structured, source-aware report output
 
-[![Repository](https://img.shields.io/badge/Repository-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/multi-agent-research-assistant)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/multi-agent-research-assistant)
 
-<details open>
-<summary><b>🏗️ Architecture</b></summary>
+**🏗️ Architecture**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     U["❓ User Query"] --> P["🧭 Planner Agent"]
     P --> R["🔬 Research Agent"]
@@ -417,13 +376,9 @@ flowchart LR
     P -.->|"orchestrated via LangGraph"| RE
 ```
 
-</details>
-
-<details open>
-<summary><b>🗂️ ER Diagram</b></summary>
+**🗂️ ER Diagram**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#a78bfa", "lineColor": "#06b6d4", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "13px"}}}%%
 erDiagram
     RESEARCH_TASK {
         int id PK
@@ -459,8 +414,6 @@ erDiagram
     FINDING }o--|| REPORT : "synthesized into"
 ```
 
-</details>
-
 ---
 
 ### 5️⃣ AI Resume Analyzer
@@ -473,13 +426,11 @@ An AI-powered resume analysis platform for ATS optimization, candidate evaluatio
 - ✅ Skill-gap analysis against job descriptions
 - ✅ Automated resume-to-job matching
 
-[![Repository](https://img.shields.io/badge/Repository-D946EF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-resume-analyzer)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAnas21/ai-resume-analyzer)
 
-<details open>
-<summary><b>🏗️ Architecture</b></summary>
+**🏗️ Architecture**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     UP["📋 Resume Upload"] --> PA["📥 Parsing - FastAPI"]
     PA --> FE["🧩 Feature / Skill Extraction"]
@@ -489,13 +440,9 @@ flowchart LR
     SC --> RC["💡 Recommendations Output"]
 ```
 
-</details>
-
-<details open>
-<summary><b>🗂️ ER Diagram</b></summary>
+**🗂️ ER Diagram**
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#a78bfa", "lineColor": "#06b6d4", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "13px"}}}%%
 erDiagram
     CANDIDATE {
         int id PK
@@ -536,80 +483,77 @@ erDiagram
     ATS_SCORE ||--o{ RECOMMENDATION : generates
 ```
 
-</details>
-
 <div align="center">
 
-[![View more repositories](https://img.shields.io/badge/View%20more%20repositories-→-6366F1?style=for-the-badge)](https://github.com/MohammedAnas21?tab=repositories)
+[![View more repositories](https://img.shields.io/badge/View%20more%20repositories-→-8b5cf6?style=for-the-badge)](https://github.com/MohammedAnas21?tab=repositories)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+---
 
 ## 🧰 Tech Stack
 
 <table width="100%">
-<tr><th align="left" width="220">🧠 LLMs & Generative AI</th><td>
+<tr><th align="left">🧠 LLMs & Generative AI</th><td>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-6366F1?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-6366F1?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-6366F1?style=for-the-badge&logo=huggingface&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6366F1?style=for-the-badge&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-6366F1?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">🎙️ Voice AI</th><td>
 
-![Twilio](https://img.shields.io/badge/Twilio-8B5CF6?style=for-the-badge&logo=twilio&logoColor=white)
-![Deepgram](https://img.shields.io/badge/Deepgram-8B5CF6?style=for-the-badge&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-8B5CF6?style=for-the-badge&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![Deepgram](https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">💻 Backend</th><td>
 
-![Python](https://img.shields.io/badge/Python-06B6D4?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-06B6D4?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-06B6D4?style=for-the-badge&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </td></tr>
 <tr><th align="left">🗄️ Databases</th><td>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3B82F6?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-3B82F6?style=for-the-badge&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-3B82F6?style=for-the-badge&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector%20DBs-3B82F6?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6A4C93?style=for-the-badge)
 
 </td></tr>
 <tr><th align="left">☁️ Cloud & DevOps</th><td>
 
-![Docker](https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-1E293B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-1E293B?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1E293B?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </td></tr>
 <tr><th align="left">🔧 Automation & Tools</th><td>
 
-![n8n](https://img.shields.io/badge/n8n-D946EF?style=for-the-badge&logoColor=white)
-![Webhooks](https://img.shields.io/badge/Webhooks-D946EF?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-D946EF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-D946EF?style=for-the-badge&logo=github&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-D946EF?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-6E56CF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge)
 
 </td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+---
 
 ## 🏗️ System Architecture & Design Philosophy
 
 This is the general shape most of my AI systems follow — from voice receptionists to RAG assistants — regardless of the specific project:
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"primaryColor": "#1e1b4b", "primaryTextColor": "#e0e7ff", "primaryBorderColor": "#818cf8", "lineColor": "#22d3ee", "secondaryColor": "#312e81", "tertiaryColor": "#0f172a", "fontFamily": "JetBrains Mono, monospace", "fontSize": "14px"}}}%%
 flowchart LR
     A["👤 User / Client"] --> B["🎙️ Voice / Text Input"]
     B --> C["🎧 STT - Deepgram / Whisper"]
@@ -622,50 +566,32 @@ flowchart LR
     I -.->|"Continuous Learning & Improvement"| D
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+---
 
 ## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAnas21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=8b5cf6&icon_color=06b6d4&text_color=c9d1d9&bg_color=0d1117&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=MohammedAnas21&theme=tokyonight&hide_border=true&border_radius=10&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAnas21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=MohammedAnas21&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnas21&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAnas21&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedAnas21&theme=tokyonight&no-frame=true&row=1&column=6" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=react-dark&hide_border=true&color=06b6d4&line=8b5cf6&point=6366f1&area=true&area_color=6366f1&bg_color=0d1117" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohammedAnas21/MohammedAnas21/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohammedAnas21/MohammedAnas21/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MohammedAnas21/MohammedAnas21/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-<sub>Auto-generated daily from my contribution graph via GitHub Actions — see <code>.github/workflows/snake.yml</code></sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedAnas21&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,50:8b5cf6,100:06b6d4&height=2" width="100%"/>
+---
 
 ## 🤝 Let's Connect
 
-> [!TIP]
-> Always open to discussing AI architecture, agentic systems, and freelance/contract opportunities — especially productizing AI voice agents and lead-gen workflows for SMBs in the **UAE and US markets**.
+I'm always open to discussing AI architecture, agentic systems, and freelance/contract opportunities — especially productizing AI voice agents and lead-gen workflows for SMBs in the **UAE and US markets**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://portfolio-pi-eight-wtb0pp2wf8.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-anas21"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohammedanas21102001@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -678,4 +604,4 @@ flowchart LR
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:6366f1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0abde3&height=120&section=footer" width="100%"/>
